@@ -9,7 +9,9 @@
     <li>📚 Cursando ADS - Análise e Desenvolvimento de Sistemas</li>
   </ul>
 </div>
-
+<div>
+  <hr>
+</div>
 <div>
   <a href="https://github.com/yuriaguiar-86">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriaguiar-86&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
