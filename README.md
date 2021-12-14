@@ -1,10 +1,10 @@
 ## Faaala dev. Eu sou o Yuri Aguiar!
 
 <div>
-  🎈 21 Anos
-  💻 Atualmente sou estagiário Full Stack, mas estou aberto para novas oportunidades
-  ❤ Gosto bastante de ser Full Stack - Front-end e Back-end
-  📚 Cursando ADS - Análise e Desenvolvimento de Sistemas
+  <p>🎈 21 Anosv
+  <p>💻 Atualmente sou estagiário Full Stack, mas estou aberto para novas oportunidades</p>
+  <p>❤ Gosto bastante de ser Full Stack - Front-end e Back-end</p>
+  <p>📚 Cursando ADS - Análise e Desenvolvimento de Sistemas</p>
 </div>
 
 <div>
