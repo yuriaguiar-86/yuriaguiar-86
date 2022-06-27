@@ -5,9 +5,9 @@
 <div>
   <p>Estudante de programação que ama a tecnologia.</p>
   <ul>
-    <li>🎈 21 Anos</li>
-    <li>💻 Atualmente sou estagiário Full Stack, mas estou aberto para novas oportunidades</li>
-    <li>❤ Gosto bastante de ser Full Stack - Front-end e Back-end</li>
+    <li>🎈 22 Anos</li>
+    <li>💻 Atualmente sou Desenvolvedor Full Stack, aberto para novas oportunidades</li>
+    <li>❤ Gosto bastante de ser programador</li>
     <li>📚 Cursando ADS - Análise e Desenvolvimento de Sistemas</li>
   </ul>
 </div>
