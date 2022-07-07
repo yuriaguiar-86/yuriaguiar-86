@@ -6,7 +6,7 @@
   <p>Estudante de programação que ama a tecnologia.</p>
   <ul>
     <li>🎈 22 Anos</li>
-    <li>💻 Atualmente sou Desenvolvedor Full Stack, aberto para novas oportunidades</li>
+    <li>💻 Desenvolvedor Full Stack</li>
     <li>❤ Gosto bastante de ser programador</li>
     <li>📚 Cursando ADS - Análise e Desenvolvimento de Sistemas</li>
   </ul>
