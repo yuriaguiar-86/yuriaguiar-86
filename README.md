@@ -1,9 +1,8 @@
-### Faala dev. Eu sou o Yuri Aguiar!
+### Faaaala dev. Eu sou o Yuri Aguiar!
 
 ##
 
 <div>
-  <p>Estudante de programação que ama a tecnologia.</p>
   <ul>
     <li>🎈 22 Anos</li>
     <li>💻 Desenvolvedor Full Stack</li>
