@@ -7,7 +7,7 @@
     <li>🎈 22 Anos</li>
     <li>💻 Desenvolvedor Full Stack</li>
     <li>❤ Gosto bastante de ser programador</li>
-    <li>📚 Cursando ADS - Análise e Desenvolvimento de Sistemas</li>
+    <li>📚 Formado ADS - Análise e Desenvolvimento de Sistemas</li>
   </ul>
 </div>
 
